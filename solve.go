@@ -24,5 +24,5 @@ func main() {
 	}
 
 	lines := strings.Split(strings.TrimSpace(string(dat)), "\n")
-	fmt.Println(solve2P2(lines))
+	fmt.Println(solve3P2(lines))
 }

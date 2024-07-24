@@ -6,7 +6,7 @@ This is a collection of Go solutions to the 2018 edition of [Advent of Code](htt
 
 - [X] Day 1 ⭐⭐
 - [X] Day 2 ⭐⭐
-- [ ] Day 3
+- [X] Day 3 ⭐⭐
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
