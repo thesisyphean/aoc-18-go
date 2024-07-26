@@ -11,7 +11,7 @@ func main() {
 	pathPtr := flag.String("path", "", "The path to the input file from input/")
 	flag.Parse()
 
-	// path := "input1Test.txt"
+	// path := "input5Test.txt"
 	// pathPtr := &path
 
 	if *pathPtr == "" {
@@ -27,5 +27,5 @@ func main() {
 	}
 
 	lines := strings.Split(strings.TrimSpace(string(dat)), "\n")
-	fmt.Println(solve4P2(lines))
+	fmt.Println(solve5P2(lines))
 }
